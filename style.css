@@ -1,0 +1,11 @@
+#teste {
+    width: 50vw;
+    height: 50vh;
+    background-color: blue;
+    margin: 10vh auto;
+}
+
+#vermelho {
+    display: block ;
+    margin: 5vh auto;
+}
